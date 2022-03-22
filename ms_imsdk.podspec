@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "msimsdk"
-  spec.version      = "0.0.3"
+  spec.name         = "ms_imsdk"
+  spec.version      = "0.0.4"
   spec.summary      = "A short description of msimsdk."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 茂松定制化的聊天IM核心基础SDK。
                    DESC
 
-  spec.homepage     = "https://github.com/blackfireteam/msimsdk"
+  spec.homepage     = "https://github.com/blackfireteam/ms_imsdk"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -74,7 +74,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/blackfireteam/msimsdk.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/blackfireteam/ms_imsdk.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
