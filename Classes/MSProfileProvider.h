@@ -6,7 +6,7 @@
 //
 ///用户信息提供类。内部有缓存处理。网络->内存->数据库
 #import <Foundation/Foundation.h>
-#import <MSIMSDK/MSProfileInfo.h>
+#import "MSProfileInfo.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

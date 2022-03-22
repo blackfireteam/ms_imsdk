@@ -5,7 +5,7 @@
 //  Created by benny wang on 2021/3/18.
 //
 
-#import <MSIMSDK/MSDBBaseStore.h>
+#import "MSDBBaseStore.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

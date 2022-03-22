@@ -7,8 +7,8 @@
 /**
  消息存储实行分库分表制，每一个对话单独存一张表，表名规则：个人对话表名：message_user_123 群对话表名：message_group_123
  */
-#import <MSIMSDK/MSDBBaseStore.h>
-#import <MSIMSDK/MSIMMessage.h>
+#import "MSDBBaseStore.h"
+#import "MSIMMessage.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

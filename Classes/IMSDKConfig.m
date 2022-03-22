@@ -5,7 +5,7 @@
 //  Created by benny wang on 2021/2/25.
 //
 
-#import <MSIMSDK/IMSDKConfig.h>
+#import "IMSDKConfig.h"
 
 
 @implementation IMSDKConfig

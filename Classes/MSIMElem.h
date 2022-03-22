@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <MSIMSDK/MSIMConst.h>
+#import "MSIMConst.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

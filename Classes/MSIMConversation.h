@@ -6,9 +6,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MSIMSDK/MSIMConst.h>
-#import <MSIMSDK/MSIMMessage.h>
-#import <MSIMSDK/MSProfileInfo.h>
+#import "MSIMConst.h"
+#import "MSIMMessage.h"
+#import "MSProfileInfo.h"
 
 
 

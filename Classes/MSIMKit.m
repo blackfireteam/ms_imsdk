@@ -6,7 +6,7 @@
 //
 
 #import "MSIMKit.h"
-#import <MSIMSDK/MSIMSDK.h>
+#import "MSIMSDK.h"
 
 
 @interface MSIMKit()<MSIMMessageListener,MSIMProfileListener,MSIMConversationListener,MSIMSDKListener,MSIMChatRoomMessageListener>

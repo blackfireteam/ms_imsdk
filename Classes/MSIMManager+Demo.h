@@ -5,7 +5,7 @@
 //  Created by benny wang on 2021/4/9.
 //
 //测试Demo相关的接口
-#import <MSIMSDK/MSIMManager.h>
+#import "MSIMManager.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

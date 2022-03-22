@@ -7,7 +7,7 @@
 
 #import "MSDBFileRecordStore.h"
 #import "FMDB.h"
-#import <MSIMSDK/MSIMSDK.h>
+#import "MSIMSDK.h"
 #import "MSIMManager+Internal.h"
 
 

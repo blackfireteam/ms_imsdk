@@ -7,11 +7,11 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import <MSIMSDK/MSIMManagerListener.h>
-#import <MSIMSDK/MSDBMessageStore.h>
-#import <MSIMSDK/MSDBConversationStore.h>
-#import <MSIMSDK/MSTCPSocket.h>
-#import <MSIMSDK/MSUploadMediator.h>
+#import "MSIMManagerListener.h"
+#import "MSDBMessageStore.h"
+#import "MSDBConversationStore.h"
+#import "MSTCPSocket.h"
+#import "MSUploadMediator.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

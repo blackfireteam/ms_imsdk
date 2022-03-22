@@ -13,47 +13,47 @@ FOUNDATION_EXPORT double MSIMSDKVersionNumber;
 //! Project version string for MSIMSDK.
 FOUNDATION_EXPORT const unsigned char MSIMSDKVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <MSIMSDK/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import "PublicHeader.h"
 
-#import <MSIMSDK/MSProfileProvider.h>
-#import <MSIMSDK/MSConversationProvider.h>
-#import <MSIMSDK/MSCacheProvider.h>
+#import "MSProfileProvider.h"
+#import "MSConversationProvider.h"
+#import "MSCacheProvider.h"
 
 
-#import <MSIMSDK/NSString+AES.h>
-#import <MSIMSDK/NSString+Ext.h>
-#import <MSIMSDK/NSDictionary+Ext.h>
-#import <MSIMSDK/NSFileManager+filePath.h>
+#import "NSString+AES.h"
+#import "NSString+Ext.h"
+#import "NSDictionary+Ext.h"
+#import "NSFileManager+filePath.h"
 
-#import <MSIMSDK/MSIMManager.h>
-#import <MSIMSDK/MSTCPSocket.h>
-#import <MSIMSDK/MSIMManagerListener.h>
-#import <MSIMSDK/MSIMManager+Message.h>
-#import <MSIMSDK/MSIMManager+Conversation.h>
-#import <MSIMSDK/MSIMManager+Parse.h>
-#import <MSIMSDK/MSIMConversation.h>
-#import <MSIMSDK/MSProfileInfo.h>
-#import <MSIMSDK/MSIMMessageReceipt.h>
-#import <MSIMSDK/MSIMManager+Demo.h>
-#import <MSIMSDK/MSIMConst.h>
-#import <MSIMSDK/IMSDKConfig.h>
-#import <MSIMSDK/MSIMMessage.h>
-#import <MSIMSDK/MSIMTools.h>
-#import <MSIMSDK/MSIMErrorCode.h>
-#import <MSIMSDK/MSUploadMediator.h>
+#import "MSIMManager.h"
+#import "MSTCPSocket.h"
+#import "MSIMManagerListener.h"
+#import "MSIMManager+Message.h"
+#import "MSIMManager+Conversation.h"
+#import "MSIMManager+Parse.h"
+#import "MSIMConversation.h"
+#import "MSProfileInfo.h"
+#import "MSIMMessageReceipt.h"
+#import "MSIMManager+Demo.h"
+#import "MSIMConst.h"
+#import "IMSDKConfig.h"
+#import "MSIMMessage.h"
+#import "MSIMTools.h"
+#import "MSIMErrorCode.h"
+#import "MSUploadMediator.h"
 
-#import <MSIMSDK/MSDBManager.h>
-#import <MSIMSDK/MSDBBaseStore.h>
-#import <MSIMSDK/MSDBMessageStore.h>
-#import <MSIMSDK/MSDBConversationStore.h>
-#import <MSIMSDK/MSDBFileRecordStore.h>
-#import <MSIMSDK/MSDBProfileStore.h>
+#import "MSDBManager.h"
+#import "MSDBBaseStore.h"
+#import "MSDBMessageStore.h"
+#import "MSDBConversationStore.h"
+#import "MSDBFileRecordStore.h"
+#import "MSDBProfileStore.h"
 
-#import <MSIMSDK/MSIMManager+ChatRoom.h>
-#import <MSIMSDK/MSChatRoomManager.h>
+#import "MSIMManager+ChatRoom.h"
+#import "MSChatRoomManager.h"
 
-#import <MSIMSDK/MSIMHeader.h>
-#import <MSIMSDK/MSIMKit.h>
+#import "MSIMHeader.h"
+#import "MSIMKit.h"
 
 
 

@@ -6,8 +6,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <MSIMSDK/IMSDKConfig.h>
-#import <MSIMSDK/MSIMConst.h>
+#import "IMSDKConfig.h"
+#import "MSIMConst.h"
 
 
 

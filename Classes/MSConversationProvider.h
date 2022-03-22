@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MSIMSDK/MSIMConversation.h>
+#import "MSIMConversation.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

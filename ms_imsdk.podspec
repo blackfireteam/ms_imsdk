@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ms_imsdk"
-  spec.version      = "0.0.4"
+  spec.version      = "0.1.0"
   spec.summary      = "A short description of msimsdk."
 
   # This description is used to generate tags and improve search results.

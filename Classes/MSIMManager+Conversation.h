@@ -5,8 +5,8 @@
 //  Created by benny wang on 2021/3/8.
 //
 
-#import <MSIMSDK/MSIMManager.h>
-#import <MSIMSDK/MSIMConversation.h>
+#import "MSIMManager.h"
+#import "MSIMConversation.h"
 
 
 

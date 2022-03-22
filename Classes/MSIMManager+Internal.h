@@ -5,10 +5,10 @@
 //  Created by benny wang on 2021/9/29.
 //
 
-#import <MSIMSDK/MSIMSDK.h>
-#import <MSIMSDK/MSDBMessageStore.h>
-#import <MSIMSDK/MSDBConversationStore.h>
-#import <MSIMSDK/MSTCPSocket.h>
+#import "MSIMSDK.h"
+#import "MSDBMessageStore.h"
+#import "MSDBConversationStore.h"
+#import "MSTCPSocket.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -5,7 +5,7 @@
 //  Created by benny wang on 2021/9/29.
 //
 
-#import <MSIMSDK/MSIMSDK.h>
+#import "MSIMSDK.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

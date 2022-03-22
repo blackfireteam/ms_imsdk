@@ -5,8 +5,8 @@
 //  Created by benny wang on 2021/10/28.
 //
 
-#import <MSIMSDK/MSIMManager.h>
-#import <MSIMSDK/MSGroupInfo.h>
+#import "MSIMManager.h"
+#import "MSGroupInfo.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

@@ -5,8 +5,8 @@
 //  Created by benny wang on 2021/3/15.
 //
 
-#import <MSIMSDK/MSDBBaseStore.h>
-#import <MSIMSDK/MSProfileInfo.h>
+#import "MSDBBaseStore.h"
+#import "MSProfileInfo.h"
 
 
 NS_ASSUME_NONNULL_BEGIN

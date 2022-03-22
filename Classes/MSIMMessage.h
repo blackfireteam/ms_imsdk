@@ -6,9 +6,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MSIMSDK/MSIMConst.h>
-#import <MSIMSDK/MSIMElem.h>
-#import <MSIMSDK/MSProfileInfo.h>
+#import "MSIMConst.h"
+#import "MSIMElem.h"
+#import "MSProfileInfo.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
